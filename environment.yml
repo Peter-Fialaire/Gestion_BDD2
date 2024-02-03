@@ -5,7 +5,7 @@ channels:
 dependencies:
   # - xeus-python
   # - pandas <2
-  - mysqlx-connector-python
+  - mysql-connector-python==8.0.22
   # - bqplot
   
 
