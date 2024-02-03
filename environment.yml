@@ -4,6 +4,7 @@ channels:
   - conda-forge
 dependencies:
   - xeus-python
+  - psycopg2
   - pandas <2
   # - bqplot
   
