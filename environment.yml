@@ -4,7 +4,9 @@ channels:
   - conda-forge
 dependencies:
   - xeus-python
+  - mysql-connector-python==8.3.0
   - pandas <2
+  
   # - bqplot
   
 
