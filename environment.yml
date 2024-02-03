@@ -3,8 +3,8 @@ channels:
   - https://repo.mamba.pm/emscripten-forge
   - conda-forge
 dependencies:
-  - xeus-python
-  - pandas <2
+  # - xeus-python
+  # - pandas <2
   - mysqlx-connector-python
   # - bqplot
   
