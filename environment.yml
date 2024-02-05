@@ -5,6 +5,6 @@ channels:
 dependencies:
   - xeus-python
   - pandas <2
-  - mysql-connector-python==2.0.4
+  - mysql-connector-python==8.3.0
   
 
