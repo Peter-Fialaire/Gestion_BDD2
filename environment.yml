@@ -2,11 +2,11 @@ name: voici
 channels:
   - https://repo.mamba.pm/emscripten-forge
   - conda-forge
-
+  - pypi
 dependencies:
   - xeus-python
   - pandas <2
-  - psycopg2
+  - mysql-connector-python
 
 
   
